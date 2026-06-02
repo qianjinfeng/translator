@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+backend/.venv/
+
+# Build output
+dist/
+.vite/
+*.pyc
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# IDE / editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Data directory (runtime artifacts)
+backend/data/
+
+# Trellis workspace (session-local, not for sharing)
+.trellis/workspace/

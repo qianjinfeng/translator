@@ -1,0 +1,8 @@
+{"file": ".trellis/spec/frontend/quality.md", "reason": "Frontend code quality and performance standards"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "TypeScript strictness and type patterns"}
+{"file": ".trellis/spec/frontend/react-pitfalls.md", "reason": "React anti-patterns to check for"}
+{"file": ".trellis/spec/shared/typescript.md", "reason": "TypeScript coding standards"}
+{"file": ".trellis/spec/shared/code-quality.md", "reason": "General code quality standards"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "Cross-layer consistency check"}
+{"file": ".trellis/spec/guides/code-reuse-thinking-guide.md", "reason": "Code reuse verification"}
+{"file": ".trellis/spec/guides/bug-root-cause-thinking-guide.md", "reason": "Bug prevention check"}

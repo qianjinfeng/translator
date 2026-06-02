@@ -1,0 +1,17 @@
+{"file": ".trellis/spec/frontend/directory-structure.md", "reason": "Frontend directory and module organization"}
+{"file": ".trellis/spec/frontend/components.md", "reason": "React component patterns, semantic HTML, loading states"}
+{"file": ".trellis/spec/frontend/hooks.md", "reason": "TanStack Query and custom hook patterns"}
+{"file": ".trellis/spec/frontend/state-management.md", "reason": "React Context and state patterns"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "TypeScript conventions and type organization"}
+{"file": ".trellis/spec/frontend/react-pitfalls.md", "reason": "Critical React patterns and common mistakes"}
+{"file": ".trellis/spec/frontend/css-design.md", "reason": "Tailwind CSS and design token conventions"}
+{"file": ".trellis/spec/shared/typescript.md", "reason": "TypeScript coding standards"}
+{"file": ".trellis/spec/shared/code-quality.md", "reason": "Code quality standards"}
+{"file": ".trellis/spec/guides/pre-implementation-checklist.md", "reason": "Pre-implementation thinking guide"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "Frontend-backend data flow thinking"}
+{"file": ".trellis/spec/guides/code-reuse-thinking-guide.md", "reason": "Code reuse patterns"}
+{"file": ".trellis/tasks/06-01-ai-translator-app/research/docx-parsing.md", "reason": "DOCX parsing: python-docx recommended"}
+{"file": ".trellis/tasks/06-01-ai-translator-app/research/docling-evaluation.md", "reason": "docling for PDF parsing, unified API"}
+{"file": ".trellis/tasks/06-01-ai-translator-app/research/local-models-medical-translation.md", "reason": "Qwen3 14B model selection and prompting"}
+{"file": ".trellis/tasks/06-01-ai-translator-app/research/ai-translation-apis.md", "reason": "Cloud API fallback providers"}
+{"file": ".trellis/tasks/06-01-ai-translator-app/research/rag-translation-memory.md", "reason": "RAG with sqlite-vec and multilingual-e5"}
